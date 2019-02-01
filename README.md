@@ -2,7 +2,7 @@
 2019/2/1 internship
 
 
-P4 tutorial の　load-balanceをmininet使わずにやってみました
+P4 tutorialのload-balanceをmininet使わずにやってみました
 
 $　bash load-balance.sh   // ネットワークビルド
 $　sudo ip netns exec h2 ./receive.py
